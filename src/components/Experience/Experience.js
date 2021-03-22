@@ -5,7 +5,7 @@ function Experience() {
   return (
     <div>
       {/* Experience section */}
-      <div className="experience">
+      <div className="alt-gray">
         <div className="jumbotron py-4">
           <div className="">
             <h1 className="display-3 text-center">Experience</h1>
@@ -13,9 +13,9 @@ function Experience() {
         </div>
 
         {/* experience cards */}
-        <div className="container">
+        <div className="">
           {/* card - 1 */}
-          <div class="row featurette" style={{ margin: "0px 100px" }}>
+          <div class="row featurette" style={{ margin: "0px 50px" }}>
             <div class="d-flex flex-column align-self-center col-md-7 order-md-2">
               <div className="">
                 <h2 class="featurette-heading">Analyst : BARCLAYS</h2>
@@ -32,17 +32,17 @@ function Experience() {
                 </p>
               </div>
             </div>
-            <div class="col-md-5 order-md-1">
+            <div class="col-md-5 d-flex justify-content-center order-md-1">
               <img
-                className="exp-img img-fluid"
-                src="/Images/barclays.png"
+                className="img-fluid"
+                src="/Images/barclays_200.png"
                 alt=""
               />
             </div>
           </div>
           <hr class="featurette-divider"></hr>
           {/* card - 2 */}
-          <div class="row featurette" style={{ margin: "0px 100px" }}>
+          <div class="row featurette" style={{ margin: "0px 50px" }}>
             <div class="d-flex flex-column align-self-center col-md-7 order-md-2">
               <div className="">
                 <h2 class="featurette-heading">BlockChain Developer : WETFF</h2>
@@ -56,18 +56,14 @@ function Experience() {
                 </p>
               </div>
             </div>
-            <div class="col-md-5 order-md-1">
-              <img
-                className="exp-img img-fluid"
-                src="/Images/wetff.png"
-                alt=""
-              />
+            <div class="col-md-5 d-flex justify-content-center order-md-1">
+              <img className="img-fluid" src="/Images/wetff.png" alt="" />
             </div>
           </div>
 
           <hr class="featurette-divider"></hr>
           {/* card - 3 */}
-          <div class="row featurette" style={{ margin: "0px 100px" }}>
+          <div class="row featurette" style={{ margin: "0px 50px" }}>
             <div class="d-flex flex-column align-self-center col-md-7 order-md-2">
               <div className="">
                 <h2 class="featurette-heading">Software Developer : WSS</h2>
@@ -84,13 +80,13 @@ function Experience() {
                 </p>
               </div>
             </div>
-            <div class="col-md-5 order-md-1">
-              <img className="exp-img img-fluid" src="/Images/wss.png" alt="" />
+            <div class="col-md-5 d-flex justify-content-center order-md-1">
+              <img className="img-fluid" src="/Images/wss.png" alt="" />
             </div>
           </div>
           <hr class="featurette-divider"></hr>
           {/* card - 4 */}
-          <div class="row featurette" style={{ margin: "0px 100px" }}>
+          <div class="row featurette mx-md-10" style={{ margin: "0px 50px" }}>
             <div class="d-flex flex-column align-self-center col-md-7 order-md-2">
               <div className="">
                 <h2 class="featurette-heading">
@@ -109,12 +105,8 @@ function Experience() {
                 </p>
               </div>
             </div>
-            <div class="col-md-5 order-md-1">
-              <img
-                className="exp-img img-fluid"
-                src="/Images/sigma.png"
-                alt=""
-              />
+            <div class="col-md-5 d-flex justify-content-center order-md-1">
+              <img className="img-fluid" src="/Images/sigma.png" alt="" />
             </div>
           </div>
         </div>

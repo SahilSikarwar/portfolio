@@ -2,6 +2,7 @@ import React from "react";
 import Education from "../Education/Education";
 import Experience from "../Experience/Experience";
 import Hobbies from "../Hobbies/Hobbies";
+import Projects from "../Projects/Projects";
 import "./Home.css";
 
 function Home() {
@@ -73,7 +74,7 @@ function Home() {
       </div>
       <Experience />
       <Education />
-      <Hobbies />
+      <Projects />
     </div>
   );
 }

@@ -3,5 +3,10 @@
 }
 
 .gap {
-  width: 49% !important;
+  /* width: 200px !important;
+  height: 200px !important; */
+}
+
+.img-thumbnail {
+  border: 0;
 }

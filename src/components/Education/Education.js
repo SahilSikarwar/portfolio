@@ -4,16 +4,17 @@ import "./Education.css";
 function Education() {
   return (
     <div>
-      <div className="container education">
-        <div className="jumbotron py-4">
+      <div className="education">
+        <div className="container jumbotron py-4">
           <div className="">
             <h1 className="display-3 text-center">Education</h1>
           </div>
           {/* Card section */}
-          <div class="d-flex justify-content-between row my-4">
-            <div class="gap col-lg-6">
-              <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-                <div class="col p-4 d-flex flex-column position-static">
+
+          <div class="row my-4 d-flex justify-content-center">
+            <div class="col-xl-5 mx-2">
+              <div class="row no-gutters border rounded overflow-hidden flex-row mb-0 shadow-sm h-md-250 position-relative">
+                <div class="col-8 p-4 d-flex flex-column position-static">
                   <strong class="d-inline-block mb-2 text-primary">
                     College
                   </strong>
@@ -24,14 +25,18 @@ function Education() {
                     8.24
                   </p>
                 </div>
-                <div class="d-flex justify-content-center align-self-center col-auto d-none d-lg-block">
-                  <img src="/Images/vit1.png" alt="" className="img-fluid" />
+                <div class="d-flex justify-content-center align-self-center col-4 d-none d-lg-block">
+                  <img
+                    src="/Images/vit.png"
+                    alt=""
+                    className="gap img-thumbnail"
+                  />
                 </div>
               </div>
             </div>
-            <div class="gap col-lg-6">
-              <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-                <div class="col p-4 d-flex flex-column position-static">
+            <div class="col-xl-5 mx-2">
+              <div class="row no-gutters border rounded overflow-hidden flex-row mb-0 shadow-sm h-md-250 position-relative">
+                <div class="col-8  p-4 d-flex flex-column position-static">
                   <strong class="d-inline-block mb-2 text-success">
                     10th & 12th
                   </strong>
@@ -42,16 +47,17 @@ function Education() {
                     PCM with PE
                   </p>
                 </div>
-                <div class="d-flex justify-content-center align-self-center col-auto d-none d-lg-block">
+                <div class="d-flex justify-content-center align-self-center col-4 d-none d-lg-block">
                   <img
                     src="/Images/dps.png"
                     alt=""
-                    className="img-fluid w-90"
+                    className="gap img-thumbnail"
                   />
                 </div>
               </div>
             </div>
           </div>
+          {/* Card section ends */}
         </div>
       </div>
     </div>
