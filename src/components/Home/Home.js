@@ -8,7 +8,7 @@ import "./Home.css";
 function Home() {
   return (
     // Heading
-    <div className="page">
+    <div className="">
       <div className="jumbotron py-4">
         <div className="container">
           <h1 className="display-3 text-center">The Modern Witcher</h1>
