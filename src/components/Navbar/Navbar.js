@@ -17,9 +17,15 @@ function Navbar() {
             </a>
           </div>
           <div class="col-md-4 d-flex justify-content-end align-items-center">
-            <i class="effect fab fa-github fa-lg"></i>
-            <i class="effect fab fa-instagram fa-lg mx-4"></i>
-            <i class="effect fab fa-linkedin-in fa-lg"></i>
+            <a href="https://github.com/SahilSikarwar">
+              <i class="effect fab fa-github fa-lg"></i>
+            </a>
+            <a href="https://www.instagram.com/the_modern_witcher/">
+              <i class="effect fab fa-instagram fa-lg mx-4"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/sahilsikarwar/">
+              <i class="effect fab fa-linkedin-in fa-lg"></i>
+            </a>
           </div>
         </div>
       </header>
