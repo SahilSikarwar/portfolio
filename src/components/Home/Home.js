@@ -42,27 +42,26 @@ function Home() {
                         <cite title="Source Title">Seneca</cite>
                       </figcaption>
                     </figure>
-                    <p className="card-text">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Est officiis quasi ipsa animi soluta iusto, quia accusamus
-                      in ipsam! Dolore, tempore quis eaque optio amet recusandae
-                      temporibus quibusdam esse blanditiis! Beatae id obcaecati
-                      numquam saepe commodi praesentium! Suscipit totam,
-                      consequuntur cum a maxime beatae nobis earum ex facere
-                      ratione ullam dignissimos nostrum voluptas sapiente
-                      explicabo possimus dolores nesciunt pariatur omnis.
-                      Tenetur vitae ipsam libero unde nostrum quasi voluptates,
-                      at quaerat veniam, odio eius! Doloremque minima aliquid
-                      eligendi enim ex porro doloribus in maiores nulla
-                      praesentium adipisci quis dolorem, officia totam.
-                      Provident exercitationem laborum, suscipit a laudantium
-                      enim dolorem possimus quo sapiente placeat, optio error
-                      voluptas. Explicabo perferendis minima quos tempora sequi
-                      autem dicta ea laudantium cupiditate earum! Ut, voluptatem
-                      harum? Dolore odio eaque facere animi consequuntur eveniet
-                      accusantium sint inventore sit qui? Quae iste cupiditate
-                      eaque esse aperiam sed recusandae magni aliquid,
-                      assumenda, dolorum eius id in dolorem ut! Obcaecati.
+                    <p className="fs-5 card-text">
+                      <p>
+                        My name is Sahil Sikarwar. I am a JavaScript &
+                        BlockChain Developer, Cyber Security & Network
+                        enthusiast, Extrovert, Writer, Gamer & a Gym freak. I
+                        look up to my Father and the Geralt of Rivia (The
+                        Witcher) as my idol. A man needs a great character and a
+                        good set of principles. I got my character from my dad
+                        and my principles from the Witcher.
+                      </p>
+                      <p>
+                        With the right set of Bros and a dog by your side, you
+                        can achieve anything. I love to Read books and play
+                        games in my spare time.
+                      </p>
+                      <p>
+                        I want to be a great Cyber Security Engineer. But
+                        honestly... give me a house near a beach and thats
+                        heaven for me. ;)
+                      </p>
                     </p>
                   </div>
                 </div>
