@@ -10,26 +10,26 @@ function Home() {
     // Heading
     <div className="">
       <div className="jumbotron py-4">
-        <div className="container">
+        <div className="">
           <h1 className="display-3 text-center">The Modern Witcher</h1>
         </div>
 
         {/* Main content */}
 
         {/* Introduction card */}
-        <div className="row my-4">
-          <div className="col-2"></div>
-          <div className="col-8">
+        <div className="d-flex justify-content-center">
+          {/* <div className="col-1"></div> */}
+          <div className="">
             <div class="card mb-3" style={{ maxWidth: "1200px" }}>
               <div class="row g-0">
-                <div class="d-flex align-self-center col-md-4">
+                <div class="d-flex justify-content-center align-self-center col-lg-4">
                   <img
                     className="img-fluid"
                     src="/Images/sahil.jpg"
                     alt="..."
                   />
                 </div>
-                <div class="col-md-8">
+                <div class="col-lg-8">
                   <div class=" card-body">
                     <figure class="text-center">
                       <blockquote class="blockquote">
@@ -42,7 +42,7 @@ function Home() {
                         <cite title="Source Title">Seneca</cite>
                       </figcaption>
                     </figure>
-                    <p className="fs-5 card-text">
+                    <p className="fs-4 card-text">
                       <p>
                         My name is Sahil Sikarwar. I am a JavaScript &
                         BlockChain Developer, Cyber Security & Network
@@ -68,7 +68,7 @@ function Home() {
               </div>
             </div>
           </div>
-          <div className="col-2"></div>
+          {/* <div className="col-1"></div> */}
         </div>
       </div>
       <Experience />
