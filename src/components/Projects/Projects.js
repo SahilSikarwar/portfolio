@@ -19,11 +19,10 @@ function Projects() {
                     The Portfolio
                   </strong>
                   <p class="card-text mb-auto">
-                    A Decentralize Identity management system where users can
-                    create digital wallets and add their documents like Adhar
-                    card. Other companies, with the help of the user's Wallet's
-                    account address, can send request to access their documents.
-                    Users can handle those requests as per the requirement.
+                    The Witcher Project/portfolio is a personal digital resume
+                    built with <br />
+                    * React <br />
+                    * Bootstrap <br />* and lots of love ❤️
                   </p>
                 </div>
               </div>
