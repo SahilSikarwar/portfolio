@@ -25,10 +25,9 @@ function Experience() {
               </div>
               <div className="">
                 <p class="lead card-text">
-                  Donec ullamcorper nulla non metus auctor fringilla. Vestibulum
-                  id ligula porta felis euismod semper. Praesent commodo cursus
-                  magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus
-                  ac cursus commodo.
+                  Working as a Barclays Analyst 3 (BA-3), I am managing the
+                  Digital side of the company, handling the Backend code using
+                  Spring framework.
                 </p>
               </div>
             </div>
@@ -45,14 +44,19 @@ function Experience() {
           <div class="row featurette" style={{ margin: "0px 50px" }}>
             <div class="d-flex flex-column align-self-center col-md-7 order-md-2">
               <div className="">
-                <h2 class="featurette-heading">BlockChain Developer : WETFF</h2>
+                <h2 class="featurette-heading">
+                  BlockChain Developer (Intern) : WETFF
+                </h2>
                 <h6 class="text-muted featurette-heading">
                   May/2020 - July/2020
                 </h6>
               </div>
               <div className="">
                 <p class="lead card-text">
-                  Worked as a Blockchain and FrontEnd Developer.
+                  I worked as a Blockchain/FrontEnd Developer for a financial
+                  project that deals with sensitive data. I maintained the data
+                  from entry to storage using solidity smart contracts and React
+                  for UI.
                 </p>
               </div>
             </div>
@@ -66,7 +70,9 @@ function Experience() {
           <div class="row featurette" style={{ margin: "0px 50px" }}>
             <div class="d-flex flex-column align-self-center col-md-7 order-md-2">
               <div className="">
-                <h2 class="featurette-heading">Software Developer : WSS</h2>
+                <h2 class="featurette-heading">
+                  Software Developer (Intern) : WSS
+                </h2>
                 <h6 class="text-muted featurette-heading">
                   May/2019 - June/2019
                 </h6>
@@ -98,10 +104,11 @@ function Experience() {
               </div>
               <div className="">
                 <p class="lead card-text">
-                  Wharf Street Strategies provides blockchain based services to
-                  start-ups and businesses aiding them with end-to-end solutions
-                  i.e. ideation to project delivery. I worked as a MEAN Stack
-                  developer and worked on a few projects and helped in others.
+                  As the PR Head of Sigma-XI, I worked along side the event
+                  management team for club's better reach. As the face of the
+                  club, my responsibilities were building good relationships
+                  with other clubs as well as outside vendors, getting
+                  sponsorship and maintaining high attendance in the event.
                 </p>
               </div>
             </div>

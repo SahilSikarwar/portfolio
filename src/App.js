@@ -5,11 +5,11 @@ import Navbar from "./components/Navbar/Navbar";
 
 function App() {
   return (
-    <>
+    <div className="container-fluid">
       <Navbar />
       <Home />
       <Footer />
-    </>
+    </div>
   );
 }
 
